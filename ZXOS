@@ -1,9 +1,21 @@
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>卮羡OS desktop version</p>
+<p>ZXOS桌面系统</p>
+<p>此系统为装在开发版上的系统！</p>
+<p>ZXOS卮羡OS属于linux6.1内核开发的自研操作系统，可运行android APK文件，windows EXE文件</p>
+<p>系统最低可支持Intel Core i3系列，内存最低128MB，硬盘最低2GB</p>
+<p>本系统搭载了Intel Brige技术，Wine64技术和DOSBOX，可以装在RaspberryPi，自研的LemonPi等开发版</p>
+<p>系统可以运行minecraft服务端，自带优化版Java19sdk，支持嵌入式开发版系统操作</p>
+<p>—---------------------------------------------------------------------------------</p>
+<p>卮羡OS Core Version</p>
+<p>ZXOS系统单片机核心系统</p>
+<p>此系统为装在单片机（esp32）上的系统！</p>
+<p>本系统为ZXOS制作组特地为Esp32，adrunio等单片机开发版制作的系统，本系统大小只有528.7KB</p>
+<p>系统为ESP32开发版制作了特地的插件，可以通过软件包内的Install os on board.exe直接刷入</p>
+<p>本系统搭载了Intel Brige技术可以装在RaspberryPi Pico，自研的LemonPi Mini等开发版</p>
+
 
 <ul>
-  <li> <a href="">2</a> </li>
-  <li> <a href="">1</a> </li>
+  <li> <a href="">2</a>ZXOS系统CoreVersion内核系统下载（链接失效）</li>
+  <li> <a href="">1</a>ZXOs系统DeskVersion桌面系统下载（链接失效）</li>
 </ul>
+
